@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="100%" stop-color="#18181b" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="400" fill="url(#bg)" />
+
+  <!-- Logo Group -->
+  <g transform="translate(480, 100) scale(4)" fill="#ffffff">
+    <!-- The 'f' -->
+    <path d="M6 4v20h4V8h6V4H6z" />
+    <!-- The 'i' dot -->
+    <rect x="18" y="4" width="4" height="4" rx="1" />
+    <!-- The 'i' stem -->
+    <path d="M18 12h4v12h-4V12z" />
+    <!-- The arrow -->
+    <path d="M28 4v8l4-4 4 4V4h-4v4l-2-2-2 2V4h-4z" />
+  </g>
+
+  <!-- Tagline -->
+  <text x="600" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="500" fill="#a1a1aa" text-anchor="middle" letter-spacing="2">
+    formbuild.io
+  </text>
+  
+  <text x="600" y="330" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="400" fill="#71717a" text-anchor="middle">
+    The headless form backend for modern web applications
+  </text>
+</svg>

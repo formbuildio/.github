@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://formbuild.io">
-    <img src="https://raw.githubusercontent.com/formbuildio/.github/main/assets/banner.png" alt="formbuild.io" width="100%" />
+    <img src="https://raw.githubusercontent.com/formbuildio/.github/main/assets/banner.svg" alt="formbuild.io" width="100%" />
   </a>
   <br />
   <h1>formbuild.io</h1>
