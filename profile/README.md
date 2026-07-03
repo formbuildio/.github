@@ -20,7 +20,8 @@
 
 We maintain several open-source libraries and templates to simplify integration with Formbuild. 
 
-### SDKs
+### SDKs & Tools
+- [**@formbuild/mcp-server**](https://github.com/formbuildio/mcp-server) - The official Model Context Protocol (MCP) server. Allows AI coding assistants like Claude Desktop and Cursor to interface directly with your Formbuild account.
 - [**@formbuild/react**](https://github.com/formbuildio/react) - The official React package. Provides the `useFormbuild` hook for managing submission state, data parsing, and error handling.
 
 ### Boilerplates
